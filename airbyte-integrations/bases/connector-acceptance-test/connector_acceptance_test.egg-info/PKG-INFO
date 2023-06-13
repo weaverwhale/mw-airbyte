@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: connector-acceptance-test
+Version: 0.0.0
+Summary: Contains acceptance tests for connectors.
+Home-page: https://github.com/airbytehq/airbyte
+Author: Airbyte
+Author-email: contact@airbyte.io

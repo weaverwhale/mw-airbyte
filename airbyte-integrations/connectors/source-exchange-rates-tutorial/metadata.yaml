@@ -1,0 +1,22 @@
+data:
+  allowedHosts:
+    hosts:
+      - TODO # Please change to the hostname of the source.
+  registries:
+    oss:
+      enabled: false
+  connectorSubtype: api
+  connectorType: source
+  definitionId: 0a477c6a-15df-41b1-a1ba-e35a9882ccbe
+  dockerImageTag: 0.1.0
+  dockerRepository: airbyte/source-exchange-rates-tutorial
+  githubIssueLabel: source-exchange-rates-tutorial
+  icon: exchange-rates-tutorial.svg
+  license: MIT
+  name: Exchange Rates Tutorial
+  releaseDate: TODO
+  releaseStage: alpha
+  documentationUrl: https://docs.airbyte.com/integrations/sources/exchange-rates-tutorial
+  tags:
+    - language:lowcode
+metadataSpecVersion: "1.0"
